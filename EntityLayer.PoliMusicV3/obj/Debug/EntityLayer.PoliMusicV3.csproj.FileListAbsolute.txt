@@ -1,0 +1,6 @@
+C:\Users\jaang\Desktop\8vo semestre\AppWebAvJavierAngulo\EntityLayer.PoliMusicV3\bin\Debug\EntityLayer.PoliMusicV3.dll
+C:\Users\jaang\Desktop\8vo semestre\AppWebAvJavierAngulo\EntityLayer.PoliMusicV3\bin\Debug\EntityLayer.PoliMusicV3.pdb
+C:\Users\jaang\Desktop\8vo semestre\AppWebAvJavierAngulo\EntityLayer.PoliMusicV3\obj\Debug\EntityLayer.PoliMusicV3.csproj.AssemblyReference.cache
+C:\Users\jaang\Desktop\8vo semestre\AppWebAvJavierAngulo\EntityLayer.PoliMusicV3\obj\Debug\EntityLayer.PoliMusicV3.csproj.CoreCompileInputs.cache
+C:\Users\jaang\Desktop\8vo semestre\AppWebAvJavierAngulo\EntityLayer.PoliMusicV3\obj\Debug\EntityLayer.PoliMusicV3.dll
+C:\Users\jaang\Desktop\8vo semestre\AppWebAvJavierAngulo\EntityLayer.PoliMusicV3\obj\Debug\EntityLayer.PoliMusicV3.pdb

@@ -1,0 +1,11 @@
+C:\Users\jaang\Desktop\8vo semestre\AppWebAvJavierAngulo\BLL.PoliMusicV3\bin\Debug\BLL.PoliMusicV3.dll
+C:\Users\jaang\Desktop\8vo semestre\AppWebAvJavierAngulo\BLL.PoliMusicV3\bin\Debug\BLL.PoliMusicV3.pdb
+C:\Users\jaang\Desktop\8vo semestre\AppWebAvJavierAngulo\BLL.PoliMusicV3\bin\Debug\DAL.PoliMusicV3.dll
+C:\Users\jaang\Desktop\8vo semestre\AppWebAvJavierAngulo\BLL.PoliMusicV3\bin\Debug\EntityLayer.PoliMusicV3.dll
+C:\Users\jaang\Desktop\8vo semestre\AppWebAvJavierAngulo\BLL.PoliMusicV3\bin\Debug\DAL.PoliMusicV3.pdb
+C:\Users\jaang\Desktop\8vo semestre\AppWebAvJavierAngulo\BLL.PoliMusicV3\bin\Debug\EntityLayer.PoliMusicV3.pdb
+C:\Users\jaang\Desktop\8vo semestre\AppWebAvJavierAngulo\BLL.PoliMusicV3\obj\Debug\BLL.PoliMusicV3.csproj.AssemblyReference.cache
+C:\Users\jaang\Desktop\8vo semestre\AppWebAvJavierAngulo\BLL.PoliMusicV3\obj\Debug\BLL.PoliMusicV3.csproj.CoreCompileInputs.cache
+C:\Users\jaang\Desktop\8vo semestre\AppWebAvJavierAngulo\BLL.PoliMusicV3\obj\Debug\BLL.Poli.86791535.Up2Date
+C:\Users\jaang\Desktop\8vo semestre\AppWebAvJavierAngulo\BLL.PoliMusicV3\obj\Debug\BLL.PoliMusicV3.dll
+C:\Users\jaang\Desktop\8vo semestre\AppWebAvJavierAngulo\BLL.PoliMusicV3\obj\Debug\BLL.PoliMusicV3.pdb
