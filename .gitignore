@@ -8,3 +8,14 @@
 *.csproj.user
 /WebAppPoliMusicV2/.vs
 /BLL.PoliMusicV3/bin/Debug
+.env
+serviceAccountKey.json
+node_modules/
+/LabWebAv-WebSocketChatSeguroJWT/.vs
+node_modules/
+.env
+serviceAccountKey.json
+*.log
+
+/.vs
+/BLL.PoliMusicV3/obj/Release
