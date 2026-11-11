@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EPN FIS Chat</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Schibsted+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <section id="chat">
+        <header class="chat-header">
+            <div class="brand">
+                <h1>EPN FIS Chat</h1>
+                <p>Mensajes en tiempo real</p>
+            </div>
+            <span id="connectionStatus" class="status-disconnected">Estado: Desconectado</span>
+        </header>
+
+        <div class="column" id="loginForm">
+            <form class="auth-form">
+                <input type="text" id="username" placeholder="Usuario" autocomplete="username" aria-label="Usuario" />
+                <input type="password" id="password" placeholder="Contraseña" autocomplete="current-password" aria-label="Contraseña" />
+                <input type="button" id="login" value="Iniciar sesión" onclick="getJwtAuth()" />
+            </form>
+            <span id="errorMessage" role="alert"></span>
+        </div>
+
+        <div class="column" id="messages" aria-live="polite"></div>
+
+        <form class="message-form">
+            <label for="messageContent">Mensaje</label>
+            <div class="composer">
+                <textarea id="messageContent" placeholder="Escribe algo..."></textarea>
+                <input type="button" id="send" value="Enviar" onclick="sendWsMessage()" />
+            </div>
+        </form>
+    </section>
+    <script src="script.js"></script>
+</body>
+</html>

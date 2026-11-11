@@ -4,7 +4,7 @@
 
 /.vs/SlnAppPoliMusic.slnx
 /WebAppPoliMusicV2/bin
-/WebAppPoliMusicV2/obj/Debug
+*/obj/Debug
 *.csproj.user
 /WebAppPoliMusicV2/.vs
 /BLL.PoliMusicV3/bin/Debug
@@ -16,6 +16,10 @@ node_modules/
 .env
 serviceAccountKey.json
 *.log
-
+node_modules/
+.env
+serviceAccountKey.json
+*.log
 /.vs
-/BLL.PoliMusicV3/obj/Release
+*/obj/Release
+*.pem
